@@ -1,3 +1,6 @@
+
+I'm making some additions to this text.
+
 # React Book, your beginner guide to React
 
 This is a completely free book on React.js
